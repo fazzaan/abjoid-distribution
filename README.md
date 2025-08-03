@@ -5,10 +5,10 @@ A repo to collate all resources required and related to; writing, typing and tra
 * [Abjoid fonts](#abjoid-fonts)
 * [Abjoid Script info sheet](#abjoid-script-info-sheet) (how to use Abjoid)
 * [Abjoid keyboard layout _map_](#abjoid-keyboard-layout-map)
-* [Abjoid keyboard layout download](#abjoid-keyboard-layout-download)
+* [Abjoid keyboard layout download](#abjoid-keyboard-layout-download) (Windows only for now, sorry)
 
 ## Abjoid fonts 
-  * [Abjad English Blocky One](https://github.com/fazzaan/font-abjad-blocky-one)
+  * [Abjad English Blocky One](https://github.com/fazzaan/font-abjad-blocky-one) (only in OTF currently; may not render correctly in MS Word [this is Microsoft's fault])
 <img width="1467" height="960" alt="image" src="https://github.com/user-attachments/assets/4007f161-8ebd-4250-98f9-4902ec2f0fe0" />
 
 
@@ -29,5 +29,6 @@ A repo to collate all resources required and related to; writing, typing and tra
 <img width="1910" height="958" alt="Screenshot 2025-08-04 001402" src="https://github.com/user-attachments/assets/5b945340-2159-4eb7-8d7d-578f8621cf91" />
 
 ## Abjoid keyboard layout download
+ _(Windows only for now, sorry)_
 * [Abjoid keyboard layout **to install**](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20AbjAng%20(Abjoid)/abjen1v6), designed for typing English phonemically 
 
