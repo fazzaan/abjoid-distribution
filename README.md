@@ -1,11 +1,23 @@
-## abjoid-distribution
-A repo to collate all resources required and related to; writing, typing and transcribing into Abjoid, an Arabic abjad-inspired conscript.
+## _abjoid-distribution_
+_A repo to collate all resources required and related to; writing, typing and transcribing into Abjoid, an Arabic abjad-inspired conscript._  
 
-# Abjoid Conscript
-* [Abjoid fonts](#abjoid-fonts)
-* [Abjoid Script info sheet](#abjoid-script-info-sheet) (how to use Abjoid)
-* [Abjoid keyboard layout _map_](#abjoid-keyboard-layout-map)
-* [Abjoid keyboard layout download](#abjoid-keyboard-layout-download) (Windows only for now, sorry)
+# About Abjoid 
+* Abjoid is a conscript of my own, based on phonetics and visually inspired by Arabic.
+* It is not a true abjad, hence the _-oid_ name.
+* Abjoid works well for consonantal relationships. English consonants change sound often, so it is not suitable for the standard English orthography.
+* Abjoid vowels are currently limited, and their presentation matches my personal analysis of my personal English dialect.
+* _Abjoid_ is the name of the script; _Abjang_ is the name of the orthographic usage of the script for English.
+* Abjoid works best for English when it is used as Abjang on top of my NewEng orthographic system.
+* [Latest release, version M1 v6.0 (_M1v6_)](https://github.com/fazzaan/abjoid-distribution/releases/tag/M1v6-Starter-Pack)  
+* [Info on my Conlangs GitBook site](https://lang.gitbook.io/conlangs/creations/abjoid-conscript)  
+* [Repository - keyboard layout](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20AbjAng%20(Abjoid))
+* [Repository - Abjoid Script Distribution](https://github.com/fazzaan/abjoid-distribution)  
+
+### Page contents
+* [# Abjoid fonts](#abjoid-fonts)
+* [# Abjoid Script info sheet](#abjoid-script-info-sheet) (how to use Abjoid)
+* [# Abjoid keyboard layout _map_](#abjoid-keyboard-layout-map)
+* [# Abjoid keyboard layout download](#abjoid-keyboard-layout-download) (Windows only for now, sorry)
 
 ## Abjoid fonts 
   * [Abjad English Blocky One](https://github.com/fazzaan/font-abjad-blocky-one) (only in OTF currently; may not render correctly in MS Word [this is Microsoft's fault])
