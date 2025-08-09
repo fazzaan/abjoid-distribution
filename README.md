@@ -20,8 +20,16 @@ _A repo to collate all resources required and related to; writing, typing and tr
 * [# Abjoid keyboard layout download](#abjoid-keyboard-layout-download) (Windows only for now, sorry)
 
 ## Abjoid fonts 
-  * [Abjad English Blocky One](https://github.com/fazzaan/font-abjad-blocky-one) (only in OTF currently; may not render correctly in MS Word [this is Microsoft's fault])
+### Abjad English Blocky One v0.571
+  * Abjad English Blocky One v0.571, [available in this repository](https://github.com/fazzaan/abjoid-distribution/blob/main/Abjad%20English%20Blocky%20One%200.517.otf).  
+    * Check [dedicated repository](https://github.com/fazzaan/font-abjad-blocky-one) for updates.  
+    * (only in OTF currently; may not render correctly in MS Word [this is seemingly Microsoft's fault])  
 <img width="1467" height="960" alt="image" src="https://github.com/user-attachments/assets/4007f161-8ebd-4250-98f9-4902ec2f0fe0" />
+
+### Abjoid Latinate One v1.011
+* Abjoid Latinate One v1.011, [available in this repository](https://github.com/fazzaan/abjoid-distribution/blob/main/Abjoid%20on%20Latin%20base%20v01.011%20-%20ccmp.otf).  
+  * Check [dedicated repository](https://github.com/fazzaan/font-abjoid-latinate-one) for updates.  
+<img width="1184" height="683" alt="image" src="https://github.com/user-attachments/assets/4360432b-7d03-4ff1-86c7-e96e16f2caa4" />
 
 
 ## Abjoid Script info sheet 
