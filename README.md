@@ -49,6 +49,6 @@ _A repo to collate all resources required and related to; writing, typing and tr
 <img width="1910" height="958" alt="Screenshot 2025-08-04 001402" src="https://github.com/user-attachments/assets/5b945340-2159-4eb7-8d7d-578f8621cf91" />
 
 ## Abjoid keyboard layout download
- _(Windows only for now, sorry)_
+ _(Windows only for now, sorry -- please contact me if you can help create the layout for MacOS or Linux! Or Android)_
 * [Abjoid keyboard layout **to install**](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20AbjAng%20(Abjoid)/abjen1v6), designed for typing English phonemically 
 
